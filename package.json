@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/hezhii/react-native-simple-gesture-password/issues"
   },
-  "homepage": "https://github.com/hezhii/react-native-simple-gesture-password#readme"
+  "homepage": "https://github.com/hezhii/react-native-simple-gesture-password#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
 }
