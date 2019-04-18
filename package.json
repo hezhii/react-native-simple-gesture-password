@@ -1,0 +1,22 @@
+{
+  "name": "react-native-simple-gesture-password",
+  "version": "0.0.1",
+  "description": "A simple gesture password for react-native apps",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hezhii/react-native-simple-gesture-password.git"
+  },
+  "keywords": [
+    "react-native",
+    "gesture",
+    "password",
+    "gesture-password"
+  ],
+  "author": "biu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hezhii/react-native-simple-gesture-password/issues"
+  },
+  "homepage": "https://github.com/hezhii/react-native-simple-gesture-password#readme"
+}
